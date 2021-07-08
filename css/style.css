@@ -113,8 +113,8 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li
     background-image: linear-gradient(to right, transparent, #CCC, transparent)
 }
 header .container {
-    border-top-left-radius: 15%;
-    border-top-right-radius: 15%;
+    border-top-left-radius: 75px;
+    border-top-right-radius: 75px;
 }
 main .container {
     /* background-image: linear-gradient(45deg, #a09f9f, #636363); */
@@ -242,7 +242,7 @@ main .coluna section {
     margin: 0 0 20px;
     padding: 15px;
     background-color: white;
-    border-radius: 3%;
+    border-radius: 17px;
     margin-top: 25px;
 }
 main .formação {
