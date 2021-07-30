@@ -292,7 +292,7 @@ main .coluna section ul li strong {
     }
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (min-width: 320px) {
     footer nav .redes-sociais li {
         display: inline-block;
         padding: 15px;
@@ -323,7 +323,7 @@ main .coluna section ul li strong {
         transition: .3s;
     }
 }
-@media only screen and (max-width: 375px) {
+@media only screen and (min-width: 375px) {
     footer nav .redes-sociais li {
         display: inline-block;
         padding: 15px;
@@ -343,7 +343,7 @@ main .coluna section ul li strong {
         transform: scale(1.4) translateY(-5px);
     }
 }
-@media only screen and (max-width: 425px) {
+@media only screen and (min-width: 425px) {
     footer nav .redes-sociais li {
         display: inline-block;
         padding: 15px;
